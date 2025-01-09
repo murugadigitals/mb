@@ -1,0 +1,29 @@
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+    /* overflow: hidden; */
+}
+body{
+    /* background-image:url("mb.jpg"); */
+    /* background-repeat: no-repeat; */
+    /* background-position: center; */
+    /* background-size: cover; */
+    background-image:linear-gradient(to right,rgb(255, 255, 0),rgba(10, 231, 224, 0.932))
+}
+
+p{
+    letter-spacing: 1px;
+    font-weight: bold;
+    text-align: justify;
+}
+
+button{
+    margin-right:10px;
+    /* display: block; */
+    /* text-align: end; */
+}
+
+.nav{
+    text-align:center;
+}
